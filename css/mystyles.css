@@ -1,0 +1,62 @@
+
+body{
+	background-color: #8ccfd1;
+}
+
+h1{
+	font-family: 'Bungee Inline', cursive;
+	color: white;
+	text-align: center;
+	font-size: 4em;
+	background-image: url(..images/ballpit.jpg);
+}
+
+#menuBar{
+
+	background-color: white;
+	font-family: 'Asar', serif;
+	color: black;
+	border-style: groove;
+	border-color: #EA4F4D;
+	padding-left: 1.2em;
+	padding-right: 1.2em;
+	text-align: center;
+	padding-right: 1.2em;
+	font-size: 2em;
+	border-width: 1.4em;
+
+}
+
+
+#myCanvasDiv{
+	text-align: center;
+
+}
+
+#myCanvas{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid;
+	border-width: 2px;
+	border-color: black;
+	background-color: white;
+
+
+}
+
+button{
+
+	border-color: #fff72b;
+	border-width: 0.5em;
+	border-style: groove;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	font-size: 1.5em;
+	border-radius: 4px;
+	font-family: 'Asar', serif;
+}
+
+button:hover {
+    background-color: #3afc20; /* Green */
+    color: white;
+}
