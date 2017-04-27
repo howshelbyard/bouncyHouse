@@ -8,16 +8,20 @@ h1{
 	color: white;
 	text-align: center;
 	font-size: 4em;
-	background-image: url(..images/ballpit.jpg);
+	background-color: #EA4F4D;
+	border-color: #fff72b;
+	border-width: 0.5em;
+	border-style: groove;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
+	border-radius: 4px;
 }
 
 #menuBar{
 
-	background-color: white;
+	 
 	font-family: 'Asar', serif;
 	color: black;
-	border-style: groove;
-	border-color: #EA4F4D;
+	padding-bottom: 1.5em;
 	padding-left: 1.2em;
 	padding-right: 1.2em;
 	text-align: center;
@@ -41,6 +45,7 @@ h1{
 	border-width: 2px;
 	border-color: black;
 	background-color: white;
+ 
 
 
 }
@@ -50,7 +55,7 @@ button{
 	border-color: #fff72b;
 	border-width: 0.5em;
 	border-style: groove;
-	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
 	font-size: 1.5em;
 	border-radius: 4px;
 	font-family: 'Asar', serif;
